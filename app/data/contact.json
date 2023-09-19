@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "What's App",
+    "way": "+201015147813",
+    "icon": "/icons/whatsapp.png"
+  },
+  {
+    "id": 2,
+    "name": "Facebook",
+    "way": "https://www.facebook.com/amoori.hesham.3/",
+    "icon": "/icons/facebook.png"
+  },
+  {
+    "id": 3,
+    "name": "Linkedin",
+    "way": "https://www.linkedin.com/in/amr-hesham-63a815273/",
+    "icon": "/icons/linkedin.png"
+  }
+]

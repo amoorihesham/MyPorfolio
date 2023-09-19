@@ -1,0 +1,12 @@
+.cardsHolder img {
+  background-color: gray;
+  animation: blink 3s ease-in-out infinite forwards;
+}
+@keyframes blink {
+  0% {
+    background-color: gray;
+  }
+  100% {
+    background-color: rgb(187, 187, 187);
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Watcher App",
+    "description": "It's a React application using v18.6 fully responsive and all routing functionality works perfectly Also using the TMDB api to get all date and it's up to date",
+    "image": "/landingCartoon.webp",
+    "tools": ["React js", "Javascript", "Html/Html5", "Css/Css3", "Bootstrap"]
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "description": "it's pure vanilla javascript project using an open weather api tp get all up to date weather conditions,Also using the user geoLocation to get the current weather depend on it",
+    "image": "/landingCartoon.webp",
+    "tools": ["Html/Html5", "Css/Css3", "Javascript", "Bootstrap"]
+  },
+  {
+    "id": 3,
+    "title": "Quest App",
+    "description": "Littrally it's my first react js project ever, I have been learned alot of things and techniques from it. it's could be used as prsonal portfolio.",
+    "image": "/landingCartoon.webp",
+    "tools": ["React js", "Html/Html5", "Css/Css3", "Javascript", "Bootstrap"]
+  },
+  {
+    "id": 4,
+    "title": "My Personal Portfolio",
+    "description": "It's a Next js project, Also it's my first combination of React with Next and that's what i able to achive. I Think things with Next much better easier and indedded.",
+    "image": "/landingCartoon.webp",
+    "tools": [
+      "React js",
+      "Next js",
+      "Html/Html5",
+      "Css/Css3",
+      "Tailwind css",
+      "Internal Apis"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "My Personal Portfolio",
+    "description": "It's a Next js project, Also it's my first combination of React with Next and that's what i able to achive. I Think things with Next much better easier and indedded.",
+    "image": "/landingCartoon.webp",
+    "tools": [
+      "React js",
+      "Next js",
+      "Html/Html5",
+      "Css/Css3",
+      "Tailwind css",
+      "Internal Apis"
+    ]
+  }
+]

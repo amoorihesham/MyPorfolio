@@ -1,0 +1,16 @@
+.groupAnimation {
+  position: relative;
+}
+.groupAnimation::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(231, 231, 231, 0.137);
+  transition: 1s;
+}
+.groupAnimation:hover::after {
+  width: 100%;
+}
